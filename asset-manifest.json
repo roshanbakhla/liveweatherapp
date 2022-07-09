@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/liveweatherapp/static/css/main.37d3d37d.css",
-    "main.js": "/liveweatherapp/static/js/main.e5d21064.js",
+    "main.css": "/liveweatherapp/static/css/main.194e7c63.css",
+    "main.js": "/liveweatherapp/static/js/main.13a770c0.js",
     "static/js/787.d9312eb8.chunk.js": "/liveweatherapp/static/js/787.d9312eb8.chunk.js",
     "static/media/warm-bg.jpg": "/liveweatherapp/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
     "static/media/cold-bg.jpg": "/liveweatherapp/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
     "index.html": "/liveweatherapp/index.html",
-    "main.37d3d37d.css.map": "/liveweatherapp/static/css/main.37d3d37d.css.map",
-    "main.e5d21064.js.map": "/liveweatherapp/static/js/main.e5d21064.js.map",
+    "main.194e7c63.css.map": "/liveweatherapp/static/css/main.194e7c63.css.map",
+    "main.13a770c0.js.map": "/liveweatherapp/static/js/main.13a770c0.js.map",
     "787.d9312eb8.chunk.js.map": "/liveweatherapp/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37d3d37d.css",
-    "static/js/main.e5d21064.js"
+    "static/css/main.194e7c63.css",
+    "static/js/main.13a770c0.js"
   ]
 }
